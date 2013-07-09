@@ -1,0 +1,9 @@
+BEG
+This is Savings account ofPallavi and the current balance is 3097.5
+
+This is Checkings account ofKeskarCurrent balance is :6685
+
+Account ownerPallavi deposited $3000 inaccount
+Account ownerPallavi withrawed $400 fromaccount
+Account ownerPallavi deposited $100 inaccount
+Account ownerPallavi withdrawed $50 fromaccount

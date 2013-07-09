@@ -1,0 +1,6 @@
+21 frank,LIN	
+115  Barack, Obama 	
+7 Carter,Mc Farland
+227 Abraham Carter,Lincoln
+
+
